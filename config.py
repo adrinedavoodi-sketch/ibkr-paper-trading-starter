@@ -1,0 +1,4 @@
+IBKR_BASE_URL = "https://localhost:5000/v1/api"
+ACCOUNT_ID = "YOUR_ACCOUNT_ID"
+PAPER = True
+MIN_SCORE_TO_BUY = 3
